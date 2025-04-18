@@ -1,4 +1,4 @@
-lear
+clear
 
 new circuit.IEEE13Nodeckt 
 ~ basekv=132 pu=1.0001 phases=3 bus1=SourceBus  
